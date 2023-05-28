@@ -4,17 +4,18 @@
 
 - 👨‍🎓 <br/>
 Master of Business Analytics '23 @ MIT 🇺🇸 <br/>
-MSc in Applied Mathematics @ CentraleSupélec 🇫🇷 <br/>
+MSc in Applied Mathematics @ CentraleSupélec 🇫🇷 
 
 - 💻 <br/>
 Research Assistant (Sep '22 - present) @ MIT Operations Research Center <br/>
 Capstone Project (March '23 - present) @ MIT / Bear Robotics <br/>
+Find my complete resume [here](https://www.dropbox.com/s/16gi49wk7h0hf9l/resumeLinkedIn.pdf?dl=0)
 
 - 🌱 <br/>
-I am interested and have experience in diverse topics, including ML (Computer Vision, Reinforcement Learning) and more generally applied mathematics (Mixed-Integer Optimization, Causal Inference), in both industry and academia.
+I am interested and have experience in diverse topics, including ML (Computer Vision, Reinforcement Learning) and more generally applied mathematics (Mixed-Integer Optimization, Causal Inference), in both industry and academia
 
 - ⚡ <br/>
-In my free time, I like to play chess ♟️ and basketball 🏀!
+In my free time, I like to play chess ♟️ and basketball 🏀
 
 ### Contact 
 
@@ -22,7 +23,7 @@ You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/vassili-ch
 
 ### Projects
 
-Find below repositories for some of my previous projects!
+Find below repositories for some of my previous projects
 
 | Subject                                           | Report                                                                                       | Topic                      | Document                                                                           |
 |---------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------|
